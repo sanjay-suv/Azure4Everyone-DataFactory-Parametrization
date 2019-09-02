@@ -15,6 +15,7 @@ In today episode I will cover
 
 ## Video
 
+[![YouTube Link](https://azure4everyone.com/images/youtube/azure-data-factory-params.jpg)](https://youtu.be/pISBgwrdxPM)
 <iframe class="youtube" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/pISBgwrdxPM"></iframe>
 
 ## Final thoughts
