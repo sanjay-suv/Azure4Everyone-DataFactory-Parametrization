@@ -1,4 +1,4 @@
-# Azure4Everyone-DataFactory-Parametrization
+# Azure4Everyone Data Factory Parametrization
 
 
 Parametrization in Azure Data Factory is essential to achieve good design and reusability as well as low cost of solution maintenance. Using parameters also speeds up implementation of new features in your pipelines. <!--more--> 
